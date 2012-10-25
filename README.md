@@ -1,4 +1,6 @@
 FBPLLC
 ======
 
-Sample code and tests
+Projects and branches.
+
+samplomatic - UI samples and tests
