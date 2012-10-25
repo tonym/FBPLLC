@@ -1,4 +1,4 @@
-FBPLLC
+Samplomatic
 ======
 
 This is a collection of sample code and tests. It is a place to test new ideas and tools, and to experiment. If you are interested in code samples, feel free to use anything you find.
