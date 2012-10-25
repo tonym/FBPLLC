@@ -1,0 +1,25 @@
+h3 { text-align: center; }
+
+.navbar .brand h1 {
+	display: inline-block;
+}
+.navbar h2 {
+	display: inline-block;
+	font-size: 14px;
+	margin-left: 12px;
+	vertical-align: middle;
+}
+.navbar p {
+	text-align: right;
+	margin-top: 14px;
+}
+.navbar-inverse .s-navbar-secondary {
+	background-image: none;
+	min-height: 25px;
+	background-color: #f7d798;
+	padding-top: 5px;
+	border: none;
+	box-shadow: 6px 6px 20px 0 black;
+	-webkit-box-shadow: 6px 6px 20px 0 black;
+	-moz-box-shadow: 6px 6px 20px 0 black;
+}
