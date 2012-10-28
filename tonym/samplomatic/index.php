@@ -17,9 +17,9 @@
 		<meta property="og:type" content="website"/>
 
 		<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.css" />
-		<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap-responsive.min.css" />
 		<link rel="stylesheet" type="text/css" href="css/override.css" />
 		<link rel="stylesheet" type="text/css" href="css/main.css" />
+		<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap-responsive.min.css" />
 
 		<script type="text/javascript" src="lib/jquery/jquery-1.8.2.min.js"></script>
 		<script type="text/javascript" src="lib/cufon/cufon-yui.js"></script>

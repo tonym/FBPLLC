@@ -1,0 +1,8 @@
+body { margin-top: 40px; }
+h1 { font-size: 53px; line-height: 50px; color: #ccc; }
+h2, h3, h4 { color: #999; }
+img { vertical-align: top; margin-top: 2px; }
+.accordion-heading { line-height: 28px; }
+a.accordion-toggle { font-size: 22px; font-weight: bold; }
+a.accordion-toggle:hover { text-decoration: none; color: #08c; }
+a.accordion-toggle [class^="icon-"], [class*=" icon-"] { margin-top: 5px; }
