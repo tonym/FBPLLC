@@ -45,10 +45,21 @@
 			<div class="row">
 				<div class="span8">
 					<h2>Resume</h2>
-					<h3>Specialties</h3>
+
+					<div class="accordion" id="accordion0">
+						<div class="accordion-group">
+							<div class="accordion-heading">
+								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion0" href="#collapse-zero"><i class="icon-chevron-down"></i> Specialties</a>
+							</div>
+						</div>
+						<div id="collapse-zero" class="accordion-body collapse in">
+							<div class="accorion-inner">
 					<p>
 						HTML/XHTML, HTML5, JavaScript, CSS, Facebook Graph API and Facebook SDKs, Javascript PHP, SQL (MS SQL Server, MySQL, PostgresSQL), jQuery, MooTools, Code Igniter, Wordpress, Third party APIs (Twitter, Pinterest, etc.), CVS, SVN, Git.
 					</p>
+							</div>
+						</div>
+					</div>
 
 					<div class="accordion" id="accordion1">
 						<div class="accordion-group">
@@ -236,6 +247,18 @@
 						</div>
 					</div>
 
+					<div class="accordion" id="accordion6">
+						<div class="accordion-group">
+							<div class="accordion-heading">
+								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion6" href="#collapse-six"><i class="icon-chevron-right"></i> References</a>
+							</div>
+						</div>
+						<div id="collapse-six" class="accordion-body collapse">
+							<div class="accorion-inner">
+								<p>References available on LinkedIn.</p>
+							</div>
+						</div>
+					</div>
 				</div>
 				<div class="span4">
 					<h2>Portfolio</h2>
